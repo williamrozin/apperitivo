@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_50e24f1c0c32be0b406ebbdcf22cfb21f6ecc09d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fddb89425e6596a5a3e6c79640e30777cc187b61\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fb03df3ff21e8dbf8114f8aa6917df090bb4d2ea">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_24a80d9d68bc9748ee6b7eda7178516459df33de\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5b49a78d29998b48f998c1bae28776abff594b4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_34f049553fc100ffeb8e14025ea7f771478a0a31\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_556df6e50701296f801b8577a0c4a0e212d8617e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_2f330cac8908ca9137b9d5eafd5a8de31653f5ba\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\POO_APP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="149b49f5740696a09a8486d9fa5bb58538f0df45">
+        <dex dex="E:\Documentos\POO_APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b40687b87e1624b7d8a61e82eff90f391fbaa49\classes.dex" />
+    </item>
+
+</items>
