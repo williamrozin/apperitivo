@@ -8,7 +8,8 @@ Android App for calculation of amount of meat and drink needed for a barbecue up
 ----------
 
 Made by:
-Jean Pytter da Costa
-João Marcos Schmalz
-Karoline Zimermann de Souza
-William Rozin Gaspar
+
+ - Jean Pytter da Costa
+ - João Marcos Schmalz
+ - Karoline Zimermann de Souza
+ - William Rozin Gaspar
